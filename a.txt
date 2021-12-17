@@ -1,0 +1,3 @@
+.Java is faster than Python as it is a compiled language.
+.It takes less time to execute a code.
+.Python is an interpreted language and it determines the type of data at run time which makes it slower comparatively.

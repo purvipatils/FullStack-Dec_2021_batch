@@ -1,4 +1,4 @@
-package Mypackage;
+package mypackage;
 import java.util.*;
 
 public class collectionAssisted {

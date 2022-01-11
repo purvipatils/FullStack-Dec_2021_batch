@@ -1,4 +1,4 @@
-package Mypackage;
+package mypackage;
 
 //default constructor
 class EmpInfo{

@@ -1,4 +1,4 @@
-package Mypackage;
+package mypackage;
 
 public class arrayAssisted {
 
